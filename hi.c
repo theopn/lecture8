@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello CS193 students!");
+  printf("Nice to meet you CS193 students!");
   return 0;
 }
